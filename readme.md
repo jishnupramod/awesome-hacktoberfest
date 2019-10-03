@@ -5,6 +5,7 @@
 ## Official website for registration and tips on how to get started 
 
 - https://hacktoberfest.digitalocean.com
+- [Video explaining what Hacktoberfest is all about and how to get started](https://youtu.be/0mjJS1Y8wrI)
 
 ## Blogs
 
